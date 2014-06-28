@@ -3,5 +3,7 @@
 
     <string name="app_name">WifiBoundService</string>
     <string name="hello_world">Hello world!</string>
+    <string name="myString">Show Time</string>
+    <string name="myWifiString">Show Wifi</string>
 
 </resources>
